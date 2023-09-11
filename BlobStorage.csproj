@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Azure.Storage.Blobs" Version="12.17.0" />
+    <PackageReference Include="fo-dicom" Version="5.1.1" />
     <PackageReference Include="nHAPI" Version="3.2.2" />
   </ItemGroup>
 
